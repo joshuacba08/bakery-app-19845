@@ -1,0 +1,66 @@
+[
+    {
+        "name":"rye bread",
+        "price":187.00,
+        "stock":7,
+        "img":"https://baker.qodeinteractive.com/wp-content/uploads/2016/12/shop-img-4-604x684.jpg",
+        "sale":false,
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In aliquet massa vitae felis vestibulum cursus. In imperdiet ac neque nec interdum. ",
+        "id":1
+    },
+    {
+        "name":"italian loaf",
+        "price":130.00,
+        "stock":10,
+        "img":"https://baker.qodeinteractive.com/wp-content/uploads/2016/12/shop-img-1-604x684.jpg",
+        "sale":false,
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In aliquet massa vitae felis vestibulum cursus. In imperdiet ac neque nec interdum. ",
+        "id":2
+    },
+    {
+        "name":"french bun",
+        "price":70.00,
+        "stock":5,
+        "img":"https://baker.qodeinteractive.com/wp-content/uploads/2016/12/shop-img-2-604x684.jpg",
+        "sale":true,
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In aliquet massa vitae felis vestibulum cursus. In imperdiet ac neque nec interdum. ",
+        "id":3
+    },
+    {
+        "name":"poppy bagel",
+        "price":165.00,
+        "stock":8,
+        "img":"https://baker.qodeinteractive.com/wp-content/uploads/2016/12/shop-img-3-604x684.jpg",
+        "sale":false,
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In aliquet massa vitae felis vestibulum cursus. In imperdiet ac neque nec interdum. ",
+        "id":4
+    },
+    {
+        "name":"crunchy loaf",
+        "price":55.00,
+        "stock":6,
+        "img":"https://baker.qodeinteractive.com/wp-content/uploads/2016/12/shop-img-5-604x684.jpg",
+        "sale":false,
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In aliquet massa vitae felis vestibulum cursus. In imperdiet ac neque nec interdum. ",
+        "id":5
+    },
+    {
+        "name":"square bun",
+        "price":60.00,
+        "stock":12,
+        "img":"https://baker.qodeinteractive.com/wp-content/uploads/2016/12/shop-img-6-604x684.jpg",
+        "sale":true,
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In aliquet massa vitae felis vestibulum cursus. In imperdiet ac neque nec interdum. ",
+        "id":6
+    },
+    {
+        "name":"french bagel",
+        "price":142.00,
+        "stock":0,
+        "img":"https://baker.qodeinteractive.com/wp-content/uploads/2016/12/shop-img-7-604x684.jpg",
+        "sale":false,
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In aliquet massa vitae felis vestibulum cursus. In imperdiet ac neque nec interdum. ",
+        "id":7
+    }
+    
+]

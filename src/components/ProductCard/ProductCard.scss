@@ -1,0 +1,28 @@
+.product-card{
+    width: 320px;
+    height:420px;
+
+
+    &__img{
+        width:100%;
+        height:300px;
+
+        img{
+            width:100%;
+            height:100%;
+            object-fit:cover;
+        }
+    }
+
+    &__detail{
+        text-align: center;
+        h3{
+            font-size:1.4rem;
+            text-transform: capitalize;
+            padding: 10px 0;
+        }
+        span{
+            
+        }
+    }
+}
